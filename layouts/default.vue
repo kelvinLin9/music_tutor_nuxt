@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <nav>navbar</nav>
+    <LayoutNavbar/>
     <slot />
     <footer>footer</footer>
   </div>
